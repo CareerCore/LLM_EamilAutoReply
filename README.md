@@ -25,7 +25,7 @@ A Python project I built to automatically handle customer emails using AI. It re
 ![Output 1](output/output1.PNG)
 
 **Complaint**
-![Output 2](output/output2.PNG)
+![Output 2](output/ouput2.PNG)
 
 ---
 
