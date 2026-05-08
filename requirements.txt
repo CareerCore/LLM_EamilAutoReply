@@ -1,0 +1,8 @@
+pandas
+numpy
+faiss-cpu
+google-generativeai
+sentence-transformers
+transformers
+python-dotenv
+torch

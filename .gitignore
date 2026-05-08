@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+data/
+Data set1.csv
+Email_Text data set.csv
